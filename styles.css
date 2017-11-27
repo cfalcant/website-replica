@@ -4,7 +4,9 @@
 
 }*/
 a {
-  color: #bfbfbf
+  color: #bfbfbf;
+  font-size: large;
+
 }
 
 .header {
@@ -18,11 +20,13 @@ top: 0px;
 
 img {
   position: relative;
-  height: 60px;
-  width: 60px;
+  height: 75px;
+  width: 75px;
   float: left;
   margin: 0 0 0 200px;
 }
 
 .nav {
+  margin: 20px 0 0 10px;
+
 }
